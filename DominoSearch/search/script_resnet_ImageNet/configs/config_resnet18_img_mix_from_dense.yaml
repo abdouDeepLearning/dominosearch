@@ -26,7 +26,7 @@ TRAIN:
     print_freq: 200
     model_dir: resnet18/resnet18_M8
 
-    data: /content/imagenetmini-1000/imagenet-mini
+    data: /kaggle/working/imagenetmini-1000/imagenet-mini
 
 
 
